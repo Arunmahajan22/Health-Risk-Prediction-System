@@ -61,22 +61,6 @@ The project includes:
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Health-Risk-Prediction/
-│
-├── data/
-├── notebooks/
-├── models/
-├── reports/
-├── images/
-├── README.md
-└── requirements.txt
-```
-
----
-
 # ⚙️ Machine Learning Workflow
 
 ```text
